@@ -1,1 +1,1 @@
-solving daily one problem
+solving daily one problem.
