@@ -12,6 +12,7 @@ __solving daily one problem.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0091-decode-ways](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0443-string-compression](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Hash Table
@@ -39,4 +40,8 @@ __solving daily one problem.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0091-decode-ways](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 <!---LeetCode Topics End-->
