@@ -26,6 +26,7 @@ __solving daily one problem.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 ## Greedy
@@ -44,4 +45,12 @@ __solving daily one problem.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
