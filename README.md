@@ -12,6 +12,7 @@ __solving daily one problem.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0091-decode-ways](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0443-string-compression](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -44,6 +45,7 @@ __solving daily one problem.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0091-decode-ways](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -53,4 +55,12 @@ __solving daily one problem.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
