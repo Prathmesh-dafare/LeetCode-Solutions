@@ -12,6 +12,7 @@ __solving daily one problem.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0091-decode-ways](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0443-string-compression](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
@@ -19,10 +20,12 @@ __solving daily one problem.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
