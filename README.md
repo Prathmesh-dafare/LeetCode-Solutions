@@ -40,10 +40,12 @@ __solving daily one problem.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -66,4 +68,8 @@ __solving daily one problem.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
