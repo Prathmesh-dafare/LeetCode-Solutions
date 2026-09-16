@@ -41,6 +41,7 @@ __solving daily one problem.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
