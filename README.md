@@ -16,12 +16,14 @@ __solving daily one problem.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0091-decode-ways](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
+| [0127-word-ladder](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0443-string-compression](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0127-word-ladder](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0567-permutation-in-string](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -76,4 +78,12 @@ __solving daily one problem.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
