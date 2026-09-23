@@ -37,6 +37,7 @@ __solving daily one problem.
 | [0011-container-with-most-water](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0200-number-of-islands](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,8 +83,21 @@ __solving daily one problem.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
+| [0200-number-of-islands](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
