@@ -79,6 +79,7 @@ __solving daily one problem.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
