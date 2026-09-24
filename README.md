@@ -101,4 +101,4 @@ __solving daily one problem.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Prathmesh-dafare/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
-<!---LeetCode Topics End-->
+<!------------LeetCode Topics End-->
