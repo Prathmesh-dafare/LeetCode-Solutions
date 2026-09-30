@@ -7,19 +7,11 @@ public:
         while (x != 0) {
 
             int digit = x % 10;
-            x = x / 10;
-
-            // Check overflow before multiplying by 10
-            if (rev > INT_MAX / 10 || 
-               (rev == INT_MAX / 10 && digit > 7))
+            if(rev > INT_MAX / 10 || rev < INT_MIN/10){
                 return 0;
-
-            // Check underflow
-            if (rev < INT_MIN / 10 || 
-               (rev == INT_MIN / 10 && digit < -8))
-                return 0;
-
+            }
             rev = rev * 10 + digit;
+             x = x / 10;
         }
 
         return rev;
